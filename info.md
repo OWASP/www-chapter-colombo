@@ -1,17 +1,5 @@
-### Colombo Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Chapter Information
+* [Meetup](https://www.meetup.com/OWASP-Colombo-Chapter)
+*[Slack](https://owasp.slack.com/messages/chapter-colombo)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
 
