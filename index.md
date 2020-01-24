@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Colombo Chapter
 tags: chapter
 level: 0
+region: Asia
 
 ---
 
