@@ -5,6 +5,9 @@ title: OWASP Colombo
 tags: chapter
 level: 0
 region: Asia
+meetup-group: OWASP-Colombo-Chapter
+country: Sri Lanka
+postal-code: 
 
 ---
 
