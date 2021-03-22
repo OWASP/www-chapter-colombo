@@ -18,15 +18,13 @@ The Colombo chapter focused on improving  application security knowledge in loca
 
 ### Monthly meeting 
 
-Event: Monthly meeting: 
-Date: 26th March 2021 
-Time: 9.30 PM - 10.30 PM (Sri Lanka Standard Time)
-Location: Virtual (zoom call)
-Link: <to-be-update>
-
-
-Agenda Items:
-* Quaterly review
+* Event: Monthly meeting: 
+* Date: 26th March 2021 
+* Time: 9.30 PM - 10.30 PM (Sri Lanka Standard Time)
+* Location: Virtual (zoom call)
+* Link: <to-be-update>
+* Agenda Items:
+  * Quaterly review
 
 
 ## Participation
