@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Colombo
 tags: chapter
 region: Asia
-level: 1
+level: 3
 meetup-group: OWASP-Colombo-Chapter
 country: Sri Lanka
 postal-code: 
