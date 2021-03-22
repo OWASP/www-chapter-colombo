@@ -23,7 +23,7 @@ The Colombo chapter focused on improving  application security knowledge in loca
 * Date: 26th March 2021 
 * Time: 9.30 PM - 10.30 PM (Sri Lanka Standard Time)
 * Location: Virtual (zoom call)
-* Link: <to-be-update>
+* Link: https://zoom.us/j/92600502809?pwd=d0IzMDlGMWxZSXQ2d2tGL1pRcHZOdz09
 * Agenda Items:
   * Quaterly review
 
