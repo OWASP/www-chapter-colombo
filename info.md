@@ -1,5 +1,5 @@
 ### Sri Lanka / Colombo Chapter
-* [Colombo Chapter Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter)
+* [Colombo Chapter Mailing List](https://groups.google.com/u/1/a/owasp.org/g/colombo-chapter)
 * [Speaker Agreement](/www-policy/speaker-agreement)
 * [Become an OWASP Member](/membership)
 
