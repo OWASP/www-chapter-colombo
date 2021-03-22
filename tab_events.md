@@ -1,5 +1,6 @@
 ---
 title: Events
+display text: Events
 layout:  null
 tab: true
 order: 2
