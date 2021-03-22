@@ -2,10 +2,11 @@
 title: Events
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: events
 ---
 
-## Up Coming Events
+## Activities
+### 2020
 
-## Past Events
+### 2019
