@@ -1,13 +1,12 @@
 ---
-title: Events
-displaytext: Events
+title: PreviousMeetings
+displaytext: Previous Meetings
 layout:  null
 tab: true
 order: 2
 tags: owasplk 
 ---
 
-## Activities
+## Previous Meetings
 ### 2020
 
-### 2019
