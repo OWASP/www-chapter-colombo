@@ -11,11 +11,10 @@ tags: owasplk
 ### 2020
 
 
-#### Meeting: 17th January 2020 from 8.00PM-10.00PM IST 
+* Meeting: 17th January 2020 from 8.00PM-10.00PM IST 
 * Participants:
   *  Present: Lohitha Perera, Danishka Navin
   *  Absent: -
-  *  Date/Time: 17th January 2020 from 8.00PM-10.00PM (Sri Lanka Standard Time)
 
 * Purpose: Creating an initial 2020/2021 plan for the OWASP Colombo Chapter
 
