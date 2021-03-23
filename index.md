@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Colombo
-tags: chapter
+tags: owasplk
 region: Asia
 level: 3
 meetup-group: OWASP-Colombo-Chapter
