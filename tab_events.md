@@ -4,7 +4,7 @@ displaytext: Events
 layout:  null
 tab: true
 order: 2
-tags: owasplk events
+tags: owasplk 
 ---
 
 ## Activities
