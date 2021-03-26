@@ -17,15 +17,9 @@ The Colombo chapter focused on improving  application security knowledge in loca
 
 ## Upcoming Events
 
-### Colombo Chapter Activity Day
-* Tentative Period: Before the April Monthly Meeting
-* Location: Virtual (zoom call)
-* Agenda Items: TBD
-
-
 ### Monthly meeting 
 * Event: Monthly meeting: 
-* Date: 30th April 2021 
+* Date: <to be update>
 * Time: 9.30 PM - 10.30 PM (Sri Lanka Standard Time)
 * Location: Virtual (zoom call)
 * Link: <to be update>
@@ -33,7 +27,7 @@ The Colombo chapter focused on improving  application security knowledge in loca
   * <to be update>
 
 
-
+## Last Meeting
 * Event: Monthly meeting: 
 * Date: 26th March 2021 
 * Time: 9.30 PM - 10.30 PM (Sri Lanka Standard Time)
