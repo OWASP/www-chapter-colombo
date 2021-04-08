@@ -14,6 +14,7 @@ tags: owasplk
 * Date: 26th March 2021 
 * Time: 9.30 PM - 10.45 PM (Sri Lanka Standard Time)
 * Location: Virtual (zoom call)
+* Link: https://zoom.us/j/92600502809?pwd=d0IzMDlGMWxZSXQ2d2tGL1pRcHZOdz09
 * Present:Lohitha Perera, Danishka Navin,Nipuna Sankalpa, Hashini Amarasena, Damitha Claude, Pramodh Jayasingharatchi. 
 * Absent: Angelo Ruwantha, Praneeth Chandrasekara, 
 * Agenda Items:
