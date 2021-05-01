@@ -16,6 +16,7 @@ Welcome to OWASP Colombo chapter home page.
 The Colombo chapter focused on improving  application security knowledge in local government/private sector organizations, university students while building strong community interaction with OWASP projects. Join the meetup group to be notified of future chapter events. 
 
 ## Upcoming Events
+{% include chapter_events.html group=page.meetup-group %}
 
 ### Monthly meeting 
 * Event: Monthly meeting: 
