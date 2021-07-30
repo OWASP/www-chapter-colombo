@@ -26,7 +26,7 @@ The Colombo chapter focused on improving  application security knowledge in loca
 
 
 
-## Last Meeting
+## Last Event
 * Event: Zero Knowledge Proof by Dr. Chamath Keppitiyagama 
 * Date: 30th July 2021 
 * Time: 5.00 PM - 6.00 PM (Sri Lanka Standard Time)
