@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Himasuthan Nadaraja](mailto:himasuthan.nadaraja@owasp.org)
+* [Ashan Poobalan](mailto:ashan.vijay@owasp.org)
